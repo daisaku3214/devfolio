@@ -8,3 +8,7 @@
     }
   ],
   "liveSassCompile.settings.includeItems": ["/style/**/*.scss"],
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.watchOnLaunch": true,
+  "liveSassCompile.settings.useNewCompiler": true
+}
